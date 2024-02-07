@@ -1,4 +1,5 @@
 #include "SimpleDX11.hpp"
+#define TINYOBJLOADER_IMPLEMENTATION
 #include "tiny_obj_loader.h"
 #include <cstdint>
 #include <filesystem>
